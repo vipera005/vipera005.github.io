@@ -32,7 +32,7 @@ const SITE = {
 
 const APPS = [
   {
-    id: "fast-renamer",
+    id: "viper-launcher",
     name: "Viper Launcher",
     tagline: "Laucher pentru jocuri si aplicatii.",
     category: "Game Launcher",
